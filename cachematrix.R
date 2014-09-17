@@ -1,7 +1,10 @@
-# Programming assignment 2: use provided function prototypes to create 
-# two functions for creating and accessing an object that caches
-# a matrix inverse if/when calculated.  Functions modeled after
-# provided examples for vector with cached mean.
+# Programming assignment 2: use provided function prototypes (from Coursera
+# R Programming class, https://github.com/rdpeng/ProgrammingAssignment2)
+# to create two functions for creating and accessing an object that caches
+# a matrix inverse if/when calculated.  Function contents for
+# makeCacheMatrix and cacheSolve were largely modeled after the example 
+# functions provided in the assignment instructions: makeVector and 
+# cachemean, respectively. 
 
 ## Put comments here that give an overall description of what your
 ## functions do
